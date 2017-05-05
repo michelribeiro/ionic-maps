@@ -1,0 +1,13 @@
+{
+  "name": "TaxiRio",
+  "short_name": "TaxiRio",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/images/point.png",
+    "sizes": "512x512",
+    "type": "images/png"
+  }],
+  "background_color": "#4e8ef7",
+  "theme_color": "#4e8ef7"
+}

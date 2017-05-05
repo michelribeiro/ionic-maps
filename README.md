@@ -1,4 +1,4 @@
-# taxi.rio-poc-maps-app
+# IONIC exibindo mapa para APP android
 
 ## Tecnologias
 * Ionic 2
